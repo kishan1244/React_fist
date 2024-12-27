@@ -1,0 +1,8 @@
+#IMG{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 100%;
+    
+}
+
